@@ -1,0 +1,8 @@
+{
+  "name": "FasalBondhu AI",
+  "description": "Digital farming companion for Bangladesh farmers offering Gemini-powered Bangla crop disease diagnosis, climate-risk alerts, crop planning, and irrigation scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
